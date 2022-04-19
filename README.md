@@ -4,4 +4,4 @@
 ## What's it?
 It's an online tournament platform for amateur cybersport competitions in russian schools. Nowadays it is a pet project, but who knows the future...
 ## Tecnologies?
-Django + Vue.js + PostgreSQL. Everything with Microservices.
+Django + Vue.js + PostgreSQL.
